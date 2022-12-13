@@ -14,7 +14,7 @@ Este script de python está diseñado para favorecer la migración desde una ins
 
 ## Instrucciones
 
-Tras descargar este script, lo primero que hay que hacer es exportar los datos de Bookwyrm de la instancia desde la que se quiere migrar (en configuración -> exportación en csv -> descargar archivo). Se renombra este archivo csv como BW.csv. Se ejecuta el script y se generará un nuevo archivo con el nombre BWnew.csv.
+Tras descargar este script (BW.py), lo primero que hay que hacer es exportar los datos de Bookwyrm de la instancia desde la que se quiere migrar (en configuración -> exportación en csv -> descargar archivo). Se renombra este archivo csv como BW.csv. Se ejecuta el script y se generará un nuevo archivo con el nombre BWnew.csv.
 
 En el archivo csv que exporta bookwyrm falta información que es necesaria para que se pueda importar toda la información correctamente. Los campos que faltan son la estanteria y la fecha de lectura. Este script incluye todos los libros que han sido puntuados en la estantería de libros leídos (read) y les añade una fecha de lectura. Los libros sin valoraciones se incluyen en la estantería de libros por leer (to-read).
 
@@ -43,7 +43,7 @@ This python script is designed to support migration from one instance of Bookwyr
 
 ## Instructions
 
-After downloading this script, the first thing to do is to export the Bookwyrm data of the instance you want to migrate from (in configuration -> csv export -> download file). Rename this csv file as BW.csv. Run the script and a new file will be generated with the name BWnew.csv.
+After downloading this script (BW.py), the first thing to do is to export the Bookwyrm data of the instance you want to migrate from (in configuration -> csv export -> download file). Rename this csv file as BW.csv. Run the script and a new file will be generated with the name BWnew.csv.
 
 The csv file exported by bookwyrm is missing information that is necessary to be able to import all the information correctly. The missing fields are the shelf and the date of reading. This script includes all books that have been rated in the read shelf and adds a read date to them. Books without ratings are included in the to-read shelf.
 
