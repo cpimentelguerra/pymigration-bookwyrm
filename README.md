@@ -27,7 +27,7 @@ Tras realizar estas modificaciones en el archivo BWnew.csv ya estaría listo par
 
 Este script ha sido escrito para facilitar la migración a https://lectura.social/, instancia que ha soportado numerosas pruebas para comprobar el correcto funcionamiento del archivo csv generado.
 
-Agradecer también la paciencia de [la hija de la Nuri, la nieta de la Laureana](https://lectura.social/user/editora), por la charla intensa sobre el script y los diferentes problemas encontrados durante la migración a la nueva instancia.
+Agradecer también la paciencia de [la hija de la Nuri, la nieta de la Laureana](https://lectura.social/user/editora), y de [Kamen](https://lectura.social/user/kamen) por la charla intensa sobre el script y los diferentes problemas encontrados durante la migración a la nueva instancia.
 
 ---
 
@@ -57,4 +57,4 @@ After making these modifications to the BWnew.csv file, it is ready to be import
 
 This script has been written to facilitate the migration to https://lectura.social/, which has supported numerous tests to check the correct functioning of the generated csv file.
 
-Thanks also to the patience of [Nuri's daughter, Laureana's granddaughter](https://lectura.social/user/editora), for the talk about the script and the different problems encountered during the migration to the new instance.
+Thanks also to the patience of [Nuri's daughter, Laureana's granddaughter](https://lectura.social/user/editora), and [Kamen](https://lectura.social/user/kamen) for the talk about the script and the different problems encountered during the migration to the new instance.
