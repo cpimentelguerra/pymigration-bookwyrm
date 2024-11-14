@@ -1,6 +1,6 @@
 # pymigration-bookwyrm (ESP)
 
-*Este script ya esta desfasado, porque BookWyrm ya ha implementado la opción de migrar entre diferentes instancias. Proyecto archivado*
+**Este script ya esta desfasado, porque BookWyrm ya ha implementado la opción de migrar entre diferentes instancias. Proyecto archivado**
 
 (English version below)
 
